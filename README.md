@@ -135,9 +135,7 @@ CONFIDENCE_THRESHOLD  = 80                # Lower = stricter matching
 
 ---
 
-## 📄 License
 
-Released under the MIT License — free to use, modify, and share.
 
 ---
 
